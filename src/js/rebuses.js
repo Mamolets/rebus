@@ -906,7 +906,7 @@ const rebuses = [
   {
     symbols: ['🔥', '+', '🎈'],
     words: ['Hot', 'ballon'],
-    hint: 'A delicious appetizer'
+    hint: 'Solve this emojies'
   }
 ];
 
